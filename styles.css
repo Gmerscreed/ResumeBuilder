@@ -1,0 +1,21 @@
+/* #resume-form{
+    display : none;
+} */
+
+#resume-template{
+    display: none;
+};
+
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+    border: 1px solid rebeccapurple;
+}
+
+.bgcol{
+    background-image: url("bgmimg.jpg");
+}
+
+body{
+    background-image: url("rT.jpg");
+}
